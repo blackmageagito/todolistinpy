@@ -110,7 +110,7 @@ class App(QWidget):
         match status:
             case "pendente":
                 return "🕓 Pendente"
-            case "concluída":
+            case "concluida":
                 return "✅ Concluída"
             case _:
                 return "❓ Desconhecido"
