@@ -3,7 +3,7 @@ To do list made in Python with PyQt5
 # 📋 To-Do List
 
 ### Alunos:
-* *(inserir nomes dos alunos aqui)*
+* *Ricardo Gabriel, Henrique Maia, Nicolas Borges*
 
 ## 📝 Descrição do Projeto
 
