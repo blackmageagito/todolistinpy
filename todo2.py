@@ -19,7 +19,7 @@ class TaskManager:
         self.tarefas = [t for t in self.tarefas if t[0] != nome]
 
     def marcar_concluida(self, nome):
-        self.tarefas = [(t[0], "concluída") if t[0] == nome else t for t in self.tarefas]
+        self.tarefas = [(t[0], "concluida") if t[0] == nome else t for t in self.tarefas]
 
     def limpar_tarefas(self):
         self.tarefas.clear()
